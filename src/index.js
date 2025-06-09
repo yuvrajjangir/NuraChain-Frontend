@@ -4,7 +4,7 @@ import App from './App';
 import axios from 'axios';
 
 // Configure axios defaults
-axios.defaults.baseURL = 'http://localhost:8080';
+axios.defaults.baseURL = 'https://nurachain-backend.onrender.com';
 // Configure axios for CORS
 axios.defaults.withCredentials = true;
 axios.defaults.headers.common['Content-Type'] = 'application/json';

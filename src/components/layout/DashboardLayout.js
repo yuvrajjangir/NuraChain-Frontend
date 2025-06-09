@@ -67,7 +67,6 @@ const menuItems = [
   { text: 'Products', icon: <Inventory />, path: '/products' },
   { text: 'Shipments', icon: <LocalShipping />, path: '/shipments' },
   { text: 'Users', icon: <People />, path: '/users' },
-  { text: 'Analytics', icon: <Assessment />, path: '/analytics' },
   { text: 'Timeline', icon: <Timeline />, path: '/timeline' },
   { text: 'Settings', icon: <Settings />, path: '/settings' },
 ];
